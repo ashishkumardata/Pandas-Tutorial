@@ -28,6 +28,8 @@ This repository contains my hands-on learning and practice notebooks for **Panda
   * Working with real datasets (`data.csv`, `data.json`)
 
 ![image alt](https://github.com/ashishkumardata/Pandas-Tutorial/blob/874f0a933abbb6a709a4ef77cc17d87e815e8f32/Image/1.png)
+
+
 ![image alt](https://github.com/ashishkumardata/Pandas-Tutorial/blob/874f0a933abbb6a709a4ef77cc17d87e815e8f32/Image/2.png)
 ---
 
@@ -41,8 +43,11 @@ This repository contains my hands-on learning and practice notebooks for **Panda
 
   * Conditional filtering
   * Boolean indexing for data extraction
+
  
 ![image alt](https://github.com/ashishkumardata/Pandas-Tutorial/blob/874f0a933abbb6a709a4ef77cc17d87e815e8f32/Image/3.png)
+
+
 ---
 
 ### 📊 Data Analysis
